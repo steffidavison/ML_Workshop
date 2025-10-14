@@ -1,0 +1,120 @@
+"","strain","type_of_doe","plate","incubation_time_h","condition","p_h","glucose_g_l","ynb_x","amino_acid_1_m_m","ethanol_g_l","agit_rpm","mean_calc_OD60","residual_glucose"
+"1","Strain A","Round_0_Fractional_Factorial_Design","plate_7",16,1,5,5,0.5,0.5,5,150,1.76084504,1.18
+"2","Strain A","Round_0_Fractional_Factorial_Design","plate_7",16,2,6.5,25,3,0.5,5,300,3.44137477,12.58
+"3","Strain A","Round_0_Fractional_Factorial_Design","plate_7",16,3,6.5,5,0.5,0.5,5,300,0.799065195,3.44
+"4","Strain A","Round_0_Fractional_Factorial_Design","plate_7",16,4,5,25,3,0.5,5,150,3.88543347,9.41
+"5","Strain A","Round_0_Fractional_Factorial_Design","plate_7",16,5,6.5,5,0.5,0.5,40,300,0.509385025,4.07
+"6","Strain A","Round_0_Fractional_Factorial_Design","plate_7",16,6,5,25,3,0.5,40,150,1.36455872,21.11
+"7","Strain A","Round_0_Fractional_Factorial_Design","plate_7",16,7,5,5,0.5,0.5,40,150,1.420106135,2.82
+"8","Strain A","Round_0_Fractional_Factorial_Design","plate_7",16,8,6.5,25,3,0.5,40,300,0.701917335,22.79
+"9","Strain A","Round_0_Fractional_Factorial_Design","plate_7",16,9,5,5,3,2,5,150,2.29660106,0
+"10","Strain A","Round_0_Fractional_Factorial_Design","plate_7",16,10,6.5,25,0.5,2,5,300,0.828081305,24.3
+"11","Strain A","Round_0_Fractional_Factorial_Design","plate_7",16,11,6.5,5,3,2,5,300,2.22045381,0.13
+"12","Strain A","Round_0_Fractional_Factorial_Design","plate_7",16,12,5,25,0.5,2,5,150,1.56975552,19.87
+"13","Strain A","Round_0_Fractional_Factorial_Design","plate_7",16,13,6.5,5,0.5,2,40,150,0.51699975,4.19
+"14","Strain A","Round_0_Fractional_Factorial_Design","plate_7",16,14,5,25,3,2,40,300,1.505551365,20.73
+"15","Strain A","Round_0_Fractional_Factorial_Design","plate_7",16,15,5,5,0.5,2,40,150,1.24785304,2.71
+"16","Strain A","Round_0_Fractional_Factorial_Design","plate_7",16,16,6.5,25,3,2,40,300,0.817180225,21.09
+"17","Strain A","Round_0_Fractional_Factorial_Design","plate_8",24,1,5,5,0.5,0.5,5,150,2.062307995,-99
+"18","Strain A","Round_0_Fractional_Factorial_Design","plate_8",24,2,6.5,25,3,0.5,5,300,14.98978655,-99
+"19","Strain A","Round_0_Fractional_Factorial_Design","plate_8",24,3,6.5,5,0.5,0.5,5,300,1.19495074,-99
+"20","Strain A","Round_0_Fractional_Factorial_Design","plate_8",24,4,5,25,3,0.5,5,150,11.28502245,-99
+"21","Strain A","Round_0_Fractional_Factorial_Design","plate_8",24,5,6.5,5,0.5,0.5,40,300,0.561004845,-99
+"22","Strain A","Round_0_Fractional_Factorial_Design","plate_8",24,6,5,25,3,0.5,40,150,4.097283135,-99
+"23","Strain A","Round_0_Fractional_Factorial_Design","plate_8",24,7,5,5,0.5,0.5,40,150,2.226625745,-99
+"24","Strain A","Round_0_Fractional_Factorial_Design","plate_8",24,8,6.5,25,3,0.5,40,300,3.51383489,-99
+"25","Strain A","Round_0_Fractional_Factorial_Design","plate_8",24,9,5,5,3,2,5,150,0.508466666666667,-99
+"26","Strain A","Round_0_Fractional_Factorial_Design","plate_8",24,10,6.5,25,0.5,2,5,300,0.190583333333333,-99
+"27","Strain A","Round_0_Fractional_Factorial_Design","plate_8",24,11,6.5,5,3,2,5,300,0.657316666666667,-99
+"28","Strain A","Round_0_Fractional_Factorial_Design","plate_8",24,12,5,25,0.5,2,5,150,0.400283333333333,-99
+"29","Strain A","Round_0_Fractional_Factorial_Design","plate_8",24,13,6.5,5,0.5,2,40,150,0.1645,-99
+"30","Strain A","Round_0_Fractional_Factorial_Design","plate_8",24,14,5,25,3,2,40,300,12.44246065,-99
+"31","Strain A","Round_0_Fractional_Factorial_Design","plate_8",24,15,5,5,0.5,2,40,150,0.410333333333333,-99
+"32","Strain A","Round_0_Fractional_Factorial_Design","plate_8",24,16,6.5,25,3,2,40,300,12.44246065,-99
+"33","Strain A","Round_1_Definitive_screening_design","plate_10",8,4,6.5,5,3,1.4,0,225,0.38522493,-99
+"34","Strain A","Round_1_Definitive_screening_design","plate_10",8,5,5,25,0.5,1.4,0,225,0.44950924,-99
+"35","Strain A","Round_1_Definitive_screening_design","plate_10",8,6,5.8,25,3,0.8,0,225,0.407427865,-99
+"36","Strain A","Round_1_Definitive_screening_design","plate_10",8,7,5.8,5,0.5,2,0,225,0.43524165,-99
+"37","Strain A","Round_1_Definitive_screening_design","plate_10",8,8,5.8,15,1.75,1.4,0,225,0.46361652,-99
+"38","Strain A","Round_1_Definitive_screening_design","plate_10",8,9,5.8,15,1.75,1.4,0,225,0.472353415,-99
+"39","Strain A","Round_1_Definitive_screening_design","plate_11",8,10,5,15,1.75,0.8,0,300,0.449268775,-99
+"40","Strain A","Round_1_Definitive_screening_design","plate_11",8,11,6.5,15,1.75,0.8,0,300,0.378091135,-99
+"41","Strain A","Round_1_Definitive_screening_design","plate_11",8,12,5.8,5,3,1.4,0,300,0.466582255,-99
+"42","Strain A","Round_1_Definitive_screening_design","plate_11",8,13,6.5,5,3,0.8,0,300,0.450711565,-99
+"43","Strain A","Round_1_Definitive_screening_design","plate_12",16,1,6.5,15,1.75,2,0,150,2.49073647,7.14
+"44","Strain A","Round_1_Definitive_screening_design","plate_12",16,2,5,15,1.75,2,0,150,3.4979642,2.2
+"45","Strain A","Round_1_Definitive_screening_design","plate_12",16,3,5.8,25,0.5,1.4,0,150,2.754205955,12.78
+"46","Strain A","Round_1_Definitive_screening_design","plate_13",16,4,6.5,5,3,1.4,0,225,1.98383625,0.68
+"47","Strain A","Round_1_Definitive_screening_design","plate_13",16,5,5,25,0.5,1.4,0,225,2.899767435,15.31
+"48","Strain A","Round_1_Definitive_screening_design","plate_13",16,6,5.8,25,3,0.8,0,225,4.701170905,2.7
+"49","Strain A","Round_1_Definitive_screening_design","plate_13",16,7,5.8,5,0.5,2,0,225,0.71241764,0.66
+"50","Strain A","Round_1_Definitive_screening_design","plate_13",16,8,5.8,15,1.75,1.4,0,225,3.953485065,2.83
+"51","Strain A","Round_1_Definitive_screening_design","plate_13",16,9,5.8,15,1.75,1.4,0,225,3.87837983,2.05
+"52","Strain A","Round_1_Definitive_screening_design","plate_14",16,10,5,15,1.75,0.8,0,300,4.629191715,0
+"53","Strain A","Round_1_Definitive_screening_design","plate_14",16,11,6.5,15,1.75,0.8,0,300,2.75957634,6.26
+"54","Strain A","Round_1_Definitive_screening_design","plate_14",16,12,5.8,5,3,1.4,0,300,3.260625245,0
+"55","Strain A","Round_1_Definitive_screening_design","plate_14",16,13,6.5,5,3,0.8,0,300,2.492259415,0
+"56","Strain A","Round_1_Definitive_screening_design","plate_15",24,1,6.5,15,1.75,2,0,150,3.564573005,-99
+"57","Strain A","Round_1_Definitive_screening_design","plate_15",24,2,5,15,1.75,2,0,150,3.9676725,-99
+"58","Strain A","Round_1_Definitive_screening_design","plate_15",24,3,5.8,25,0.5,1.4,0,150,3.10312067,-99
+"59","Strain A","Round_1_Definitive_screening_design","plate_16",24,4,6.5,5,3,1.4,0,225,2.36056475,-99
+"60","Strain A","Round_1_Definitive_screening_design","plate_16",24,5,5,25,0.5,1.4,0,225,3.240586495,-99
+"61","Strain A","Round_1_Definitive_screening_design","plate_16",24,6,5.8,25,3,0.8,0,225,9.3268358,-99
+"62","Strain A","Round_1_Definitive_screening_design","plate_16",24,7,5.8,5,0.5,2,0,225,2.47807198,-99
+"63","Strain A","Round_1_Definitive_screening_design","plate_16",24,8,5.8,15,1.75,1.4,0,225,8.0507682,-99
+"64","Strain A","Round_1_Definitive_screening_design","plate_16",24,9,5.8,15,1.75,1.4,0,225,7.31093755,-99
+"65","Strain A","Round_1_Definitive_screening_design","plate_17",24,10,5,15,1.75,0.8,0,300,12.59635825,-99
+"66","Strain A","Round_1_Definitive_screening_design","plate_17",24,11,6.5,15,1.75,0.8,0,300,7.45521655,-99
+"67","Strain A","Round_1_Definitive_screening_design","plate_17",24,12,5.8,5,3,1.4,0,300,8.8346841,-99
+"68","Strain A","Round_1_Definitive_screening_design","plate_17",24,13,6.5,5,3,0.8,0,300,3.564573005,-99
+"69","Strain A","Round_1_Definitive_screening_design","plate_9",8,1,6.5,15,1.75,2,0,150,0.349876575,-99
+"70","Strain A","Round_1_Definitive_screening_design","plate_9",8,2,5,15,1.75,2,0,150,0.41007298,-99
+"71","Strain A","Round_1_Definitive_screening_design","plate_9",8,3,5.8,25,0.5,1.4,0,150,0.409351585,-99
+"72","Strain B","Round_0_Fractional_Factorial_Design","plate_1",18,1,5,5,0.5,0.5,5,150,1.47837882,0
+"73","Strain B","Round_0_Fractional_Factorial_Design","plate_1",18,4,5,25,3,0.5,5,150,1.974458115,12.42
+"74","Strain B","Round_0_Fractional_Factorial_Design","plate_1",18,6,5,25,3,0.5,40,150,0.72989143,20.68
+"75","Strain B","Round_0_Fractional_Factorial_Design","plate_1",18,7,5,5,0.5,0.5,40,150,1.05227484,3.22
+"76","Strain B","Round_0_Fractional_Factorial_Design","plate_1",18,9,5,5,3,2,5,150,1.427320085,3.22
+"77","Strain B","Round_0_Fractional_Factorial_Design","plate_1",18,12,5,25,0.5,2,5,150,1.090508775,19.54
+"78","Strain B","Round_0_Fractional_Factorial_Design","plate_1",18,13,6.5,5,0.5,2,40,150,0.901984215,3.73
+"79","Strain B","Round_0_Fractional_Factorial_Design","plate_1",18,15,5,5,0.5,2,40,150,0.880021745,3.82
+"80","Strain B","Round_0_Fractional_Factorial_Design","plate_2",18,2,6.5,25,3,0.5,5,300,2.036979015,12.91
+"81","Strain B","Round_0_Fractional_Factorial_Design","plate_2",18,3,6.5,5,0.5,0.5,5,300,1.55965599,1.84
+"82","Strain B","Round_0_Fractional_Factorial_Design","plate_2",18,5,6.5,5,0.5,0.5,40,300,0.62488838,4.28
+"83","Strain B","Round_0_Fractional_Factorial_Design","plate_2",18,8,6.5,25,3,0.5,40,300,0.679634245,21.12
+"84","Strain B","Round_0_Fractional_Factorial_Design","plate_2",18,10,6.5,25,0.5,2,5,300,1.75459295,21.12
+"85","Strain B","Round_0_Fractional_Factorial_Design","plate_2",18,11,6.5,5,3,2,5,300,2.06014381,0
+"86","Strain B","Round_0_Fractional_Factorial_Design","plate_2",18,14,5,25,3,2,40,300,0.582807005,21.85
+"87","Strain B","Round_0_Fractional_Factorial_Design","plate_2",18,16,6.5,25,3,2,40,300,0.65582821,21.11
+"88","Strain B","Round_0_Fractional_Factorial_Design","plate_3",24,1,5,5,0.5,0.5,5,150,5.52900993566667,0
+"89","Strain B","Round_0_Fractional_Factorial_Design","plate_3",24,4,5,25,3,0.5,5,150,15.4968517966667,0.56
+"90","Strain B","Round_0_Fractional_Factorial_Design","plate_3",24,6,5,25,3,0.5,40,150,11.1246551425,17.99
+"91","Strain B","Round_0_Fractional_Factorial_Design","plate_3",24,7,5,5,0.5,0.5,40,150,6.85058041383333,0.73
+"92","Strain B","Round_0_Fractional_Factorial_Design","plate_3",24,9,5,5,3,2,5,150,5.48292202,0
+"93","Strain B","Round_0_Fractional_Factorial_Design","plate_3",24,12,5,25,0.5,2,5,150,12.452167055,8.87
+"94","Strain B","Round_0_Fractional_Factorial_Design","plate_3",24,13,6.5,5,0.5,2,40,150,5.25634189266667,1.5
+"95","Strain B","Round_0_Fractional_Factorial_Design","plate_3",24,15,5,5,0.5,2,40,150,6.10244744283333,1.82
+"96","Strain B","Round_0_Fractional_Factorial_Design","plate_4",24,2,6.5,25,3,0.5,5,300,18.5875667066667,0
+"97","Strain B","Round_0_Fractional_Factorial_Design","plate_4",24,3,6.5,5,0.5,0.5,5,300,5.31647001816667,0
+"98","Strain B","Round_0_Fractional_Factorial_Design","plate_4",24,5,6.5,5,0.5,0.5,40,300,4.961073112,3.35
+"99","Strain B","Round_0_Fractional_Factorial_Design","plate_4",24,8,6.5,25,3,0.5,40,300,6.05420429,0
+"100","Strain B","Round_0_Fractional_Factorial_Design","plate_4",24,10,6.5,25,0.5,2,5,300,12.809951865,13.43
+"101","Strain B","Round_0_Fractional_Factorial_Design","plate_4",24,11,6.5,5,3,2,5,300,5.75434261066667,0
+"102","Strain B","Round_0_Fractional_Factorial_Design","plate_4",24,14,5,25,3,2,40,300,5.692245688,21.22
+"103","Strain B","Round_0_Fractional_Factorial_Design","plate_4",24,16,6.5,25,3,2,40,300,5.598243263,20.46
+"104","Strain C","Round_0_Fractional_Factorial_Design","plate 5",24,1,5,5,0.5,0.5,5,150,0.88058283,-99
+"105","Strain C","Round_0_Fractional_Factorial_Design","plate 5",24,2,6.5,25,3,0.5,5,300,12.5715102,-99
+"106","Strain C","Round_0_Fractional_Factorial_Design","plate 5",24,3,6.5,5,0.5,0.5,5,300,2.25572201,-99
+"107","Strain C","Round_0_Fractional_Factorial_Design","plate 5",24,4,5,25,3,0.5,5,150,1.48110409,-99
+"108","Strain C","Round_0_Fractional_Factorial_Design","plate 5",24,5,6.5,5,0.5,0.5,40,300,0.577116,-99
+"109","Strain C","Round_0_Fractional_Factorial_Design","plate 5",24,6,5,25,3,0.5,40,150,0.38330121,-99
+"110","Strain C","Round_0_Fractional_Factorial_Design","plate 5",24,7,5,5,0.5,0.5,40,150,0.52661835,-99
+"111","Strain C","Round_0_Fractional_Factorial_Design","plate 5",24,8,6.5,25,3,0.5,40,300,0.90446902,-99
+"112","Strain C","Round_0_Fractional_Factorial_Design","plate 5",24,9,5,5,3,2,5,150,0.759308315,-99
+"113","Strain C","Round_0_Fractional_Factorial_Design","plate 5",24,10,6.5,25,0.5,2,5,300,2.69881885,-99
+"114","Strain C","Round_0_Fractional_Factorial_Design","plate 5",24,11,6.5,5,3,2,5,300,1.849256005,-99
+"115","Strain C","Round_0_Fractional_Factorial_Design","plate 5",24,12,5,25,0.5,2,5,150,0.92354591,-99
+"116","Strain C","Round_0_Fractional_Factorial_Design","plate 5",24,13,6.5,5,0.5,2,40,150,0.621281405,-99
+"117","Strain C","Round_0_Fractional_Factorial_Design","plate 5",24,14,5,25,3,2,40,300,0.505056655,-99
+"118","Strain C","Round_0_Fractional_Factorial_Design","plate 5",24,15,5,5,0.5,2,40,150,0.520286105,-99
+"119","Strain C","Round_0_Fractional_Factorial_Design","plate 5",24,16,6.5,25,3,2,40,300,0.497842705,-99
