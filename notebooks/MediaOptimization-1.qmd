@@ -1,0 +1,68 @@
+---
+title: "Media Optimization I"
+format:
+  html:
+    code-fold: true
+    code-summary: "Code"
+---
+
+```{r}
+#| code-fold: true
+#| code-summary: "Load libraries"
+#| message: false
+
+library(ggplot2)
+library(ggthemes)
+library(janitor)
+library(magrittr)
+library(dplyr)
+library(caret)
+library(RColorBrewer)
+library(patchwork)
+library(parallelPlot)
+```
+
+```{r}
+#| code-fold: true
+#| code-summary: "Retrieve & curate data"
+#| message: false
+
+df <- read.csv('../data/MediaOptimization_I.csv') %>% janitor::clean_names() %>% dplyr::select(-x)
+```
+
+```{r}
+#| code-fold: true
+#| code-summary: "Parallel plot"
+#| message: false
+
+q <- df %>%
+  mutate(plate_id = as.factor(plate_id)) %>%
+  mutate(media = as.factor(media)) %>%
+  mutate(inh_add1 = as.factor(inh_add1)) %>%
+  mutate(sm_af_or_add2 = as.factor(sm_af_or_add2)) %>%
+  mutate(condition = as.factor(condition)) %>%
+  mutate(add3 = as.factor(add3)) %>%
+  mutate(add4 = as.factor(add4))
+
+qaz <- q %>%
+dplyr::select(
+  plate_id,
+  media,
+  inh_add1,
+  inh_add1_lvl_or_g_l,
+  condition,
+  target_product,
+  sm_af_or_add2,
+  sm_s_or_add2_lvl,
+  od,
+  side_product_1,
+  side_product_2,
+  side_product_3,
+  add3,
+  add3_lvl,
+  add4,
+  add4_lvl,
+  x_enzyme_ml_l)
+
+parallelPlot(qaz)
+```
